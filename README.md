@@ -32,3 +32,11 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+# String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
