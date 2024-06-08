@@ -40,3 +40,11 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+# Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+# Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
