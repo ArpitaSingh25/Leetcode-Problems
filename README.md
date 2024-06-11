@@ -7,10 +7,12 @@
 | [0042-trapping-rain-water](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0189-rotate-array) |
 # Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0189-rotate-array) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -55,3 +57,4 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0189-rotate-array) |
