@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 # Sorting
 |  |
 | ------- |
@@ -86,3 +88,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
