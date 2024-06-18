@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
@@ -20,6 +21,7 @@
 | [0075-sort-colors](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0853-most-profit-assigning-work) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
@@ -78,6 +81,7 @@
 | ------- |
 | [0330-patching-array](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting
@@ -92,3 +96,4 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0853-most-profit-assigning-work) |
