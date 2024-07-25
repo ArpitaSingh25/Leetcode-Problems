@@ -114,4 +114,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
