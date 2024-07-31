@@ -117,6 +117,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -126,5 +127,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ArpitaSingh25/Leetcode-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
