@@ -1,0 +1,19 @@
+class Solution {
+public:
+    // Function to calculate the difference of sums of numbers in the range [1, n].
+    int differenceOfSums(int n, int m) {
+        int ans = 0;  // Initialize the answer variable to store the difference of sums.
+        
+        // Iterate through numbers from 1 to n.
+        for (int i = 1; i <= n; i++) {
+            if (i % m == 0) {
+                // If 'i' is divisible by 'm', subtract 'i' from the answer.
+                ans -= i;
+            } else {
+                // If 'i' is not divisible by 'm', add 'i' to the answer.
+                ans += i;
+            }
+        }
+        return ans;  // Return the final difference of sums.
+    }
+};
