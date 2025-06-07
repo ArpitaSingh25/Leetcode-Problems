@@ -1,0 +1,48 @@
+#include <bits/stdc++.h> // Includes all standard libraries
+using namespace std;
+
+// Recursive function to find and print ONLY the first subsequence that sums to a given target
+bool printF(int ind, vector<int> &ds, int s, int sum, int arr[], int n) {
+    // Base case: when index reaches the end of the array
+    if (ind == n) {
+        if (s == sum) {
+            for (auto it : ds) {
+                cout << it << " "; // Print the valid subsequence
+            }
+            cout << endl; // Move to the next line
+            return true;  // Found a valid subsequence — stop further recursion
+        }
+        return false; // No valid subsequence here
+    }
+
+    // ----------------------
+    // STEP 1: Include the current element
+    // ----------------------
+    ds.push_back(arr[ind]);  // Add current element to the temporary vector
+    s += arr[ind];           // Add its value to the current sum
+    if (printF(ind + 1, ds, s, sum, arr, n)) {
+        return true;         // If a valid subsequence is found in this path, stop
+    }
+
+    // ----------------------
+    // STEP 2: Exclude the current element (Backtrack)
+    // ----------------------
+    ds.pop_back();           // Remove the last added element
+    s -= arr[ind];           // Subtract its value from the sum
+    if (printF(ind + 1, ds, s, sum, arr, n)) {
+        return true;         // If a valid subsequence is found in this path, stop
+    }
+
+    return false;            // No valid subsequence found in any path
+}
+
+int main() {
+    int arr[] = {1, 1, 2}; // Input array
+    int n = 3;             // Size of the array
+    int sum = 2;           // Target sum
+    vector<int> ds;        // To store one subsequence at a time
+
+    printF(0, ds, 0, sum, arr, n); // Start recursion
+
+    return 0;
+}
